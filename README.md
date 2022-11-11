@@ -22,7 +22,7 @@
 ## Video Walktrough
 
 
-https://user-images.githubusercontent.com/82030235/201268859-bf37c9f2-9ee6-41a8-97b7-aa57c4c613c2.mp4
+[Netflix](https://user-images.githubusercontent.com/82030235/201268859-bf37c9f2-9ee6-41a8-97b7-aa57c4c613c2.mp4)
 
 
 Please feel free to create a pull request and submit any issues! Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
